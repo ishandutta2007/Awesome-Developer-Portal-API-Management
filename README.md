@@ -1,6 +1,6 @@
 # Awesome-Developer-Portal-API-Management
 
-# Top Developer Portal & API Management Ecosystem
+## Top Developer Portal & API Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on API Gateways, Developer Portals & Lifecycle Governance*  
