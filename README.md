@@ -65,9 +65,9 @@ Below is a curated comparison of leading SaaS and managed API management platfor
 
 ## 💻 Open-Source GitHub Projects
 
-Below are the top active open-source projects for self-hosted API gateways, internal developer portals (IDPs), and OpenAPI tooling, sorted in descending order by **GitHub Star count** ⭐.
+Below are the top active open-source projects for self-hosted API gateways, internal developer portals (IDPs), and OpenAPI tooling, sorted in descending order by **GitHub Stars_Count** ⭐.
 
-| Open-Source Project | GitHub Stars Badge | Primary Language / License | Core Capabilities & Architecture |
+| Open-Source Project | GitHub_Stars_Badge | Primary Language / License | Core Capabilities & Architecture |
 |:---|:---|:---|:---|
 | **[Traefik](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Go / Apache-2.0 | Cloud-native modern reverse proxy and API gateway that automatically discovers microservice configurations from Docker, Kubernetes, and Consul. |
 | **[Kong Gateway (OSS)](https://github.com/Kong/kong)** | [![Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers) | Lua / Apache-2.0 | The world's most popular open-source API gateway built on OpenResty/Nginx. Extensible via hundreds of community and enterprise Lua/Go/Python/Wasm plugins. |
